@@ -1,0 +1,7 @@
+This task calculates the dwell time using Excel.
+
+Start Time and End Time are entered in the table.
+The formula =B3-A3 is used to calculate the time difference.
+The result is formatted in mm:ss format to show minutes and seconds.
+
+The final dwell time is calculated correctly as 05:00.
